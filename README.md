@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Audrius Stakauskas and this account is to show what I am working now and will be working on in the future.
+I am Audrius Stakauskas and this account is to show what I am working on now and will be working on in the future.
 
 - 🔭 I’m currently working on my studies in college and am working as Service Support Specialist at Evolution.
 - 🌱 I’m currently learning Python, databases, mathematics, C# on this semester.
